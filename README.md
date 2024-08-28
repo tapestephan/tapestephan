@@ -1,6 +1,6 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Heyyy, bienvenue sur mon profil !
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, bienvenue sur mon profil !
 
-Développeur fullstack à Lyon 🇫🇷 je me spécialise depuis 8 ans <br/>
+Développeur fullstack à Lyon 🇫🇷 je me spécialise depuis 10 ans <br/>
 dans le développement et la maintenance d'applications web.
 
 ### Technos
